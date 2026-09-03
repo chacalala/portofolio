@@ -7,7 +7,7 @@ export const social = [
   {
     name: "LinkedIn",
     type: "linkedin",
-    url: "www.linkedin.com/in/alifia-0457652b4",
+    url: "https://www.linkedin.com/in/revika-syariqatun-alifia-0457652b4/",
   },
   {
     name: "Instagram",
@@ -25,13 +25,13 @@ export const social = [
     url: "mailto:revikasyariqatunalifia@gmail.com",
   },
   {
-    name: "Tiktok",
+    name: "TikTok",
     type: "tiktok",
-    url: "https://t.me/xwcyraa",
+    url: "https://www.tiktok.com/@xwcyraa  ",
   },
-    {
+  {
     name: "Discord",
     type: "discord",
-    url: "https://t.me/chacalalaxz",
+    url: "https://discord.com/users/chacalalaxz  ",
   },
 ];
